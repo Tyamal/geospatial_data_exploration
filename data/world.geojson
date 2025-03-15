@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afghanistan",
+        "pop_est": 29121286
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[60.1602, 29.3772], [60.1602, 38.4895], [74.8895, 38.4895], [74.8895, 29.3772], [60.1602, 29.3772]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albania",
+        "pop_est": 2877797
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[19.3033, 39.6504], [19.3033, 42.6652], [21.0254, 42.6652], [21.0254, 39.6504], [19.3033, 39.6504]]]
+      }
+    }
+    // Tambahkan lebih banyak negara sesuai kebutuhan
+  ]
+}
